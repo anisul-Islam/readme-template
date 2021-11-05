@@ -123,7 +123,19 @@ http://www.studywithanis.com
 
 ### image sytax
 
-![profile](./images/me.jpg)
+<!-- ![profile](./images/me.jpg) -->
+<img src="./images/me.jpg" width="400" title="profile image"/>
+😊
+
+<br/>
+
+### table sytax
+
+| Name         | Email                  |
+| ------------ | ---------------------- |
+| Anisul Islam | Text is here           |
+| Anisul Islam | anisul2010@yahoo.co.uk |
+| Anisul Islam | Text is here           |
 
 <!-- all link is here -->
 
